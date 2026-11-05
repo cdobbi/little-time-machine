@@ -7,6 +7,7 @@ Little Time Machine helps BYU Pathway religion teachers and students understand 
 - [Steve Ward](https://github.com/ward-wolf/wdd430-portfolio)
 - [Christi Dobbins](https://github.com/cdobbi/wdd430-portfolio)
 - [Emmanuel Bassey](https://github.com/emmanuelbassey685/wdd430-portfolio)
+David Antonio Fajardo https://github.com/dantonifa/wdd430-portfolio
 
 ## Getting Started
 
